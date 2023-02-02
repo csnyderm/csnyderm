@@ -1,13 +1,13 @@
 <h1 style="text-align:center;">👋 Hi, I’m Cole</h1>
 
-- My name is Cole, but I go by MidLanerST in some areas
+- My name is Cole
 
-Often times, you can call me whatever you would prefer. I got the same several years back from some online games, but these days, I often just go by my name within my friend groups, and everyone else follows their lead.
+Often times, you can call me whatever you would prefer.
 
 
 - 🌱 I'm a student at the University of Colorado Colorado Springs studying Computer Security
 
-Most often, you can find me working on STEM related curriculum to teach K-12 students, or whatever passion projects
+Most often, you can find me working on STEM related curriculum to teach K-12 students, various passion projects, or other ideas that interest me.
 
 - 📫 If you need to reach me...
 
