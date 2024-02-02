@@ -5,7 +5,7 @@
 Often times, you can call me whatever you would prefer.
 
 
-- 🌱 I'm a student at the University of Colorado Colorado Springs studying Computer Security
+- 🌱 I'm a recent graduate from the University of Colorado Colorado Springs with a Bachelors in Computer Security
 
 Most often, you can find me working on STEM related curriculum to teach K-12 students, various passion projects, or other ideas that interest me.
 
